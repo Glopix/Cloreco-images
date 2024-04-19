@@ -14,7 +14,7 @@ https://github.com/PCWcn/CCAligner
 ### Deckard
 https://github.com/skyhover/Deckard
 
-### iClones (currently not available since it is not publicly accessible)
+### iClones (⚠currently not available since it is not publicly accessible)
 ~www.softwareclones.org~ (Domain was sold)
 
 ### NiCad 
