@@ -45,23 +45,23 @@ Paper: https://ieeexplore.ieee.org/document/9609181
 The licences of all clone benchmarks remains unchanged.  
 In general, all non-Java clone files were removed, the Java clone files were sorted, some scripts for clone detection and evaluation were added and the programs were containerised according to the standards of the ABCD platform.
 
-## BigCloneEval
+### BigCloneEval
 Repo: https://github.com/jeffsvajlenko/BigCloneEval
 
 Paper:  
 https://ieeexplore.ieee.org/document/7816515 (BigCloneEval)  
 https://ieeexplore.ieee.org/document/7332459 (BigCloneBench)
 
-## GPTCloneBench
+### GPTCloneBench
 Repo: https://github.com/srlabUsask/GPTCloneBench  
 
 Paper: https://arxiv.org/abs/2308.13963
 
-## Google Code Jam (2022 rounds, more can be added)
+### Google Code Jam (2022 rounds, more can be added)
 https://web.archive.org/web/20220315000000*/https://code.google.com/codejam/  
 https://zibada.guru/gcj/
 
-## Project CodeNet
+### Project CodeNet
 https://developer.ibm.com/exchanges/data/all/project-codenet/  
 Repo: https://github.com/IBM/Project_CodeNet
 
