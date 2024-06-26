@@ -26,6 +26,11 @@ Repo: https://www.txl.ca/txl-nicaddownload.html
 
 Paper: https://ieeexplore.ieee.org/document/5970189
 
+### NIL
+Repo: https://github.com/kusumotolab/NIL
+
+Paper: https://dl.acm.org/doi/10.1145/3468264.3468564
+
 ### Oreo 
 Repo: https://github.com/Mondego/oreo-artifact/tree/master
 
