@@ -39,7 +39,7 @@ Paper: https://arxiv.org/abs/1806.05837
 ### SourcererCC
 Repo: https://github.com/Mondego/SourcererCC  
 
-Paper: https://arxiv.org/abs/1512.06448
+Paper: https://ieeexplore.ieee.org/document/7886988
 
 ### StoneDetector
 Repo: https://github.com/StoneDetector/StoneDetector  
