@@ -18,6 +18,16 @@ Repo: https://github.com/skyhover/Deckard
 
 Paper: https://ieeexplore.ieee.org/document/4222572
 
+### DrDup2
+Repo: https://github.com/tronicek/DrDup2
+
+Paper: https://doi.org/10.1016/j.infsof.2021.106805
+
+### DrDupLex
+Repo: https://github.com/tronicek/DrDupLex
+
+Paper: https://doi.org/10.1016/j.infsof.2021.106805
+
 ### iClones (⚠currently not available since it is not publicly accessible)
 ~www.softwareclones.org~ (Domain was sold)
 
