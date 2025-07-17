@@ -1,12 +1,12 @@
-# Cloreco container images
-Images of several clone detector tools and clone benchmark frameworks. All are modified so that they can be used in the [Cloreco platform](https://github.com/Glopix/cloreco).
+# Cloreco Container Images
+This repository provides container images for several clone detector tools and clone benchmark frameworks, all prepared for use with the [Cloreco platform](https://github.com/Glopix/cloreco).
   
-The images are available on the [Package page](https://github.com/users/Glopix/packages?repo_name=cloreco-images).
+All images are available on the repository's [Package page](https://github.com/users/Glopix/packages?repo_name=cloreco-images).
 
 
 ## Current available images of clone detector tools
 The licences of all clone detectors remains unchanged. No changes have been made to their source code.  
-In general, the software was only compiled, a runner script was added and it was containerised according to the Cloreco platform standards.
+The software included has not been modified at the source code level. Only build, packaging, and runner scripts were added as needed to containerize each tool according to Cloreco platform standards.
 
 ### CCAligner
 Repo: https://github.com/PCWcn/CCAligner
@@ -47,8 +47,8 @@ Repo: https://github.com/StoneDetector/StoneDetector
 Paper: https://ieeexplore.ieee.org/document/9609181
 
 ## Current available images of clone benchmark (frameworks)
-The licences of all clone benchmarks remains unchanged.  
-In general, all non-Java clone files were removed, the Java clone files were sorted, some scripts for clone detection and evaluation were added and the programs were containerised according to the standards of the Cloreco platform.
+The licenses of all clone benchmarks remain unchanged.
+For each benchmark, all non-Java clone files have been removed (if present), and the Java clone files have been sorted. Additional scripts for clone detection and evaluation have been included, and each program has been containerized according to Cloreco platform standards.
 
 ### BigCloneEval
 Repo: https://github.com/jeffsvajlenko/BigCloneEval
